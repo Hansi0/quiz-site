@@ -1,0 +1,55 @@
+{
+    "questions": [
+      {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Rome"],
+        "answer": "Paris"
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Jupiter", "Venus", "Mercury"],
+        "answer": "Mars"
+      },
+      {
+        "question": "What is the largest mammal in the world?",
+        "options": ["Blue Whale", "Elephant", "Giraffe", "Hippopotamus"],
+        "answer": "Blue Whale"
+      },
+      {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "options": ["Harper Lee", "J.K. Rowling", "Charles Dickens", "F. Scott Fitzgerald"],
+        "answer": "Harper Lee"
+      },
+      {
+        "question": "Which country is known as the 'Land of the Rising Sun'?",
+        "options": ["Japan", "China", "Korea", "Vietnam"],
+        "answer": "Japan"
+      },
+      {
+        "question": "What is the chemical symbol for water?",
+        "options": ["H2O", "CO2", "N2O", "CH4"],
+        "answer": "H2O"
+      },
+      {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
+        "answer": "Leonardo da Vinci"
+      },
+      {
+        "question": "What is the capital of Spain?",
+        "options": ["Madrid", "Barcelona", "Seville", "Valencia"],
+        "answer": "Madrid"
+      },
+      {
+        "question": "Which ocean is the largest?",
+        "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+        "answer": "Pacific Ocean"
+      },
+      {
+        "question": "Who developed the theory of relativity?",
+        "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Stephen Hawking"],
+        "answer": "Albert Einstein"
+      }
+    ]
+  }
+  
